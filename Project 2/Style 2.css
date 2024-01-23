@@ -1,0 +1,78 @@
+
+/* Set the background color of the page */
+body {
+    background-color: #f2f2f2;
+}
+
+/* Style the title */
+.title {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+/* Style the heading */
+h1 {
+    font-size: 36px;
+    text-decoration: underline;
+}
+
+/* Style the form */
+.formsection {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Style the form labels */
+label {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+/* Style the form inputs */
+input[type="text"], input[type="number"], input[type="date"], textarea {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+/* Style the form button */
+button {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+}
+
+/* Style the content */
+.content {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Style the view stock button */
+button {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+}
